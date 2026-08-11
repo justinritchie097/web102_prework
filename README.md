@@ -1,44 +1,42 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Justin Ritchie
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [ :white_check_mark:] The introduction section explains the background of the company and how many games remain unfunded.
+* [:white_check_mark: ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [:white_check_mark: ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [ :white_check_mark:] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [:white_check_mark: ] An extra tab that gives the exact amount that a game is overfunded or underfunded by.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<img width="1343" height="598" alt="codepathprework" src="https://github.com/user-attachments/assets/872ccae9-a233-41e4-88c5-e639d87e1c91" />
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with LiceCap
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a little bit of trouble adding the extra feature towards the end of the project.  I need more practice with the DOM(Document Object Model) and CSS so that I could move and display certain elements much easier, like with the extra tab I made that determines how much each game is overfunded or underfunded by.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Justin Ritchie
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
